@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">A passionate Software Engineer from Portugal</h3>
+<h3 align="center">A Software Engineer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatsbruno&label=Profile%20views&color=0e75b6&style=flat" alt="thatsbruno" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/brunodasilvaribeiro/](https://www.linkedin.com/in/brunodasilvaribeiro/)
 
-- 📫 How to reach me **Message me on linkedin**
+- 📫 How to reach me → **Message me on linkedin**
 
 - ⚡ Fun fact **I finished university during covid**
 
