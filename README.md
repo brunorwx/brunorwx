@@ -19,6 +19,8 @@
   
 
 - 💬 Ask me about Java, React, Scala  
+
+- 👨🏻‍💻 When I'm not working -> https://leetcode.com/thatsBruno/
   
 
 <br/>  
