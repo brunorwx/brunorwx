@@ -6,8 +6,6 @@
 ### <div align="center">I'm Bruno a full-time Software Engineer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working at Nokia  
-  
 
 - 📄 Know about my experiences https://www.linkedin.com/in/brunodasilvaribeiro/  
   
