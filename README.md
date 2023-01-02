@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Bruno a full-time Software Engineer 👨‍💻 </div>  
+### <div align="center">I'm Bruno a Software Engineer 👨‍💻 </div>  
   
 
 
@@ -16,7 +16,7 @@
 - ⚡ Fun fact I finished university during covid (Software Engineering BSc)  
   
 
-- 💬 Ask me about Java, React, Scala  
+- 💬 Ask me about BackEnd & FullStack dev 
 
 - 👨🏻‍💻 When I'm not working -> https://leetcode.com/thatsBruno/
   
