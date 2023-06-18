@@ -16,7 +16,7 @@
 - ⚡ Fun fact I finished university during covid (Software Engineering BSc)  
   
 
-- 💬 Ask me about BackEnd & FullStack dev 
+- 💬 Ask me about Full stack development, .NET/Angular
 
 - 👨🏻‍💻 When I'm not working -> https://leetcode.com/thatsBruno/
   
