@@ -110,17 +110,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-• Developing OOP projects with Java/Scala/Python & SQL.
-
-• Developing MVC android mobile projects with Kotlin & SQLite.
-
-• Developing APIs.
-
-• MongoDB, Express, React, Node (MERN Stack).
-
-• JUnit testing.
-
-• Linux shell scripting.
+Software Engineer (BSc)
+• Developing applications with C# .NET & Angular together with PostgreSQL and AWS deployment.
+• Designing REST APIs and Unit tests.
+• Developing projects with Java/Scala & Spring Framework in MVC architecture.
+• Developing mobile applications with Kotlin together with SQLite.
+• Databases, relational and non-relational (SQL, MongoDB).
+• Agile methodologies.
 
 <br/>
 
