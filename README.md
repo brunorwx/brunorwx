@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm Bruno a Software Engineer 👨‍💻<br>🔭 I’m currently working at @Siemens<br>📄 Know about my experiences https://www.linkedin.com/in/brunodasilvaribeiro/<br>📫 How to reach me → Message me on linkedin<br>⚡ Fun fact I finished university during covid (Software Engineering BSc)<br>💬 Ask me about Full stack development, .NET/Angular<br>👨🏻‍💻 When I'm not working -> https://leetcode.com/thatsBruno/
+I'm Bruno a Software Engineer 👨‍💻<br>
+🔭 I’m currently working at @Siemens<br>
+📄 Know about my experiences https://www.linkedin.com/in/brunodasilvaribeiro/<br>
+📫 How to reach me → Message me on linkedin<br>
+⚡ Fun fact I finished my bachelor's degree during covid (Software Engineering BSc)<br>
+💬 Ask me about Full stack development, .NET/Angular<br>
+👨🏻‍💻 When I'm not working -> https://leetcode.com/thatsBruno/
 
 
 ## 🌐 Socials:
