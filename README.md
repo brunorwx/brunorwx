@@ -1,9 +1,9 @@
 # 💫 About Me:
 I'm Bruno a Software Engineer 👨‍💻<br>
 📄 Know about my experiences https://www.linkedin.com/in/brunodasilvaribeiro/<br>
-📫 How to reach me → Message me on linkedin<br>
-⚡ Fun fact I finished university during covid<br>
-💬 Ask me about Full stack development, .NET/Angular<br>
+📫 How to reach me → Message me on linkedin.<br>
+⚡ Fun fact, I got my degree whilist living in the UK, from De Montfort University.<br>
+💬 Ask me about Full stack development, .NET/Angular.<br>
 👨🏻‍💻 When I'm not working -> https://leetcode.com/thatsBruno/
 
 
@@ -13,6 +13,12 @@ I'm Bruno a Software Engineer 👨‍💻<br>
 # 💻 Tech Stack:<br>
 Software Engineering (BSc)<br>
 • Developing applications with C# .NET & Angular together with PostgreSQL and AWS deployment.<br>
+• Development of C# .NET 8 APIs together with Angular 17 front end features and implementation of iX-Siemens library.<br>
+• Development of full stack clients providing two way communication between services and applications.<br>
+• Writing documentation on internal services and libraries.<br>
+• Registry and publish of internal libraries.<br>
+• Angular Jest unit testing.<br>
+• Full stack bug solving.<br>
 • Designing REST APIs and writing Unit tests (Karma/Jest/JUnit/XUnit).<br>
 • Developing projects with Scala/Java & Spring Framework in MVC architecture.<br>
 • Developing mobile applications with Kotlin together with SQLite.<br>
