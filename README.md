@@ -1,10 +1,10 @@
 # 💫 About Me:
-Hi, I'm Bruno a Software Engineer 👨‍💻<br>
+👨‍💻 Hi, I'm Bruno a Software Engineer.<br>
+⚡ Fun fact, I got my degree while living in the UK, from De Montfort University whilist working as a full-time bartender!<br>
+💬 Ask me about Full stack development, .NET/Angular.<br>
 📄 Know about my experiences https://www.linkedin.com/in/brunodasilvaribeiro/<br>
 📫 How to reach me → Message me on linkedin.<br>
-⚡ Fun fact, I got my degree from De Montfort University whilist living in the UK.<br>
-💬 Ask me about Full stack development, .NET/Angular.<br>
-👨🏻‍💻 When I'm not working -> https://leetcode.com/thatsBruno/
+👨🏻‍💻 When I'm not working -> Check my [website](https://thatsbruno.github.io/)
 
 
 ## 🌐 Socials:
