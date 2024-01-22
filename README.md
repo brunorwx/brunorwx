@@ -1,8 +1,8 @@
 # 💫 About Me:
-I'm Bruno a Software Engineer 👨‍💻<br>
+Hi, I'm Bruno a Software Engineer 👨‍💻<br>
 📄 Know about my experiences https://www.linkedin.com/in/brunodasilvaribeiro/<br>
 📫 How to reach me → Message me on linkedin.<br>
-⚡ Fun fact, I got my degree whilist living in the UK, from De Montfort University.<br>
+⚡ Fun fact, I got my degree from De Montfort University whilist living in the UK.<br>
 💬 Ask me about Full stack development, .NET/Angular.<br>
 👨🏻‍💻 When I'm not working -> https://leetcode.com/thatsBruno/
 
