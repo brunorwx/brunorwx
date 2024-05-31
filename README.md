@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web scrapper excel data manipulation<br>🌱 I’m currently learning Software architecture design & Go<br>👨‍💻 All of my projects are available at https://github.com/thatsBruno<br>💬 Ask me about Angular, .NET<br>📫 How to reach me Message me on Linkedin<br>📄 Know about my experiences https://www.linkedin.com/in/brunodasilvaribeiro/<br>⚡ Fun fact I lived in the UK, where I did my Software Engineering Bachelors degree.
+🔭 I’m currently working with physical and virtual devices with Arm/Intel architecture with Go<br>🌱 I’m currently learning Software architecture design & Go<br>👨‍💻 All of my projects are available at https://github.com/thatsBruno<br>💬 Ask me about Angular, .NET, Go<br>📫 How to reach me Message me on Linkedin<br>📄 Know about my experiences https://www.linkedin.com/in/brunodasilvaribeiro/<br>⚡ Fun fact I lived in the UK, where I did my Software Engineering Bachelors degree.
 
 
 ## 🌐 Socials:
