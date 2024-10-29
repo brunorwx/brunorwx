@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thatsBruno](https://github.com/thatsBruno)
 
-- 💬 Ask me about **Go**
-
 - 📫 How to reach me **https://www.linkedin.com/in/brunodasilvaribeiro/**
 
 - 📄 Know about my experiences [https://thatsbruno.github.io/](https://thatsbruno.github.io/)
