@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatsbruno&label=Profile%20views&color=0e75b6&style=flat" alt="thatsbruno" /> </p>
 
-- 🔭 I’m currently working on **Industrial Edge @ Siemens, with virtual and physical devices with Arm&x86 architecture**
+- 🔭 I’m currently working on **Industrial Edge @ Siemens, developing plugins and microservices for virtual and physical devices with Arm & x86 architecture**
 
 - 🌱 I’m currently learning **software design and architecture.**
 
