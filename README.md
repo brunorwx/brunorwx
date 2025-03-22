@@ -3,7 +3,6 @@ I'm Bruno, an engineer based in Portugal
 =============================================================================================================================
 
 -> Open minded, inquisitive, and life-long learner. <br>
--> Mentorship mentality and helping other developers grow professionally..
 
 * 🖥️  See my portfolio at [thatsbruno.github.io](http://thatsbruno.github.io)
 * 🚀  I'm currently working on [MyNeo CDT @ Siemens](https://cdt-guest.pcs7.siemens.com/areaConfig)
