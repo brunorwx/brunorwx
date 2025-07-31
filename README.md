@@ -4,7 +4,7 @@ I'm Bruno, an engineer based in Portugal
 
 -> Open minded, inquisitive, and life-long learner. <br>
 
-* 🖥️  See my portfolio at [thatsbruno.github.io](http://thatsbruno.github.io)
+* 🖥️  See my portfolio at [brunorwx.github.io](http://thatsbruno.github.io)
 * 🚀  I'm currently working on [MyNeo CDT @ Siemens](https://cdt-guest.pcs7.siemens.com/areaConfig)
 * 🧠  I'm currently taking a Specialisation Post-graduate degree on Applied Artificial Inteligence and Machine Learning.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatsbruno&label=Profile%20views&color=0e75b6&style=flat" alt="thatsbruno" /> </p>
