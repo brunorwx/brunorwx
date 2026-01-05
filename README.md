@@ -7,7 +7,7 @@
 
 Fullstack engineer with a strong interest in **system design and architecture design**.
 
-I work mainly with **.NET**, **NestJS**, **Angular**, and use **Python** for machine learning and **Go** for plugins or personal projects.
+I work mainly with **.NET**, **NestJS**, **Angular**, and use **Python** for machine learning and **Go** for critical systems.
 
 My work often involves:
 - Fullstack and distributed system design
