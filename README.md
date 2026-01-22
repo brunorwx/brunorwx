@@ -1,17 +1,15 @@
 # Hi, I'm [Bruno](https://github.com/brunorwx) ! 
 
 > Software Engineering (BSc) | Applied Artificial Intelligence and Machine Learning (PG) <br>
-> C# · Typescript · Go · Python 
+> C# · Typescript · Go · Python
 
 ---
 
-Fullstack engineer with a strong interest in **system design and architecture design**.
+Software engineer focused on systems design, correctness, and maintainable architectures.
+Experience in backend and distributed systems, with growing interest in systems programming, memory safety, and performance-aware design.
 
-I work mainly with **.NET**, **NestJS**, **Angular**, and use **Python** for machine learning and **Go** for critical systems.
+I work mainly with **.NET**, **Go**, and **TypeScript**, building predictable, well-tested systems, and use Python for data-driven and ML/AI workloads.
 
-My work often involves:
-- Fullstack and distributed system design
-- Object oriented engineering architecture 
-
+Actively learning and building projects in **Rust**.
 
 ---
