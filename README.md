@@ -8,8 +8,6 @@
 Software engineer focused on systems design, correctness, and maintainable architectures.
 Experience in backend and distributed systems, with growing interest in systems programming, memory safety, and performance-aware design.
 
-I work mainly with **C#**, **Go**, and **TypeScript**, building predictable, well-tested systems, and use Python for data-driven and ML/AI workloads.
-
-Actively learning and building projects in **Rust**.
+I work mainly with **C#**, **Go**, and **TypeScript**, building predictable, well-tested systems, and use **Python** for data-driven and ML/AI workloads.
 
 ---
