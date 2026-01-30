@@ -5,8 +5,9 @@
 
 ---
 
-Software engineer focused on systems design, correctness, and maintainable architectures.
-Experience in backend and distributed systems, with growing interest in systems programming, memory safety, and performance-aware design.
+Software engineer focused on **systems design**, correctness, and maintainable architectures.
+
+Experience in frontend/backend and distributed systems, with growing interest in systems programming, memory safety, and performance-aware design.
 
 I work mainly with **C#**, **Go**, and **TypeScript**, building predictable, well-tested systems, and use **Python** for data-driven and ML/AI workloads.
 
