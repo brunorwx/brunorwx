@@ -1,4 +1,4 @@
-# Hi, I'm [Bruno](https://github.com/brunorwx) ! 
+# Hi, I'm Bruno ! 
 
 > Software Engineering (BSc) | Applied Artificial Intelligence and Machine Learning (PG) <br>
 > C# · Typescript · Go · Python
