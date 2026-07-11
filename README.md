@@ -5,10 +5,10 @@
 
 ---
 
-Software engineer focused on **systems design**, correctness, and maintainable architectures.
+Software engineer → AI engineer.
 
-Experience in frontend/backend and distributed systems, with growing interest in systems programming, memory safety, and AI system design.
+I build production ML/AI systems in Python, backed by a solid engineering foundation in C#, Go, and TypeScript. 
 
-I work mainly with **C#**, **Go**, and **TypeScript**, building predictable, well-tested systems, and use **Python** for data-driven and ML/AI systems.
+Focused on turning research into scalable, well-tested products.
 
 ---
