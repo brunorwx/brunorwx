@@ -4,10 +4,10 @@
 
 ---
 
-Software engineer → AI engineer.
+Software Engineer → AI Engineer
 
-I build production ML/AI systems in Python, backed by a solid engineering foundation in C#, Go, and TypeScript. 
+I build ML and AI systems in Python, grounded in a strong engineering foundation. 
 
-Focused on turning research into scalable, well-tested products.
+I automate workflows, develop AI agents and the harnesses around them, and lead engineering teams and technical architecture decisions.
 
 ---
